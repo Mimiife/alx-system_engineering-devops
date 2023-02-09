@@ -4,3 +4,4 @@ To change the working directory to user's home directory
 To display contents list of current working directory
 My first directory
 The script to create working directory
+Create my first directory
