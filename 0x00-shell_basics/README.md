@@ -1,1 +1,4 @@
 I want to create a script that creates a directory
+TO display current working directory
+To change the working directory to user's home directory
+To display contents list of current working directory
