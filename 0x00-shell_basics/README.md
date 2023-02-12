@@ -7,3 +7,4 @@ The script to create working directory
 Create my first directory
 First directory
 First delete
+First dir deletion
