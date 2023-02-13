@@ -13,3 +13,4 @@
 10 newest files
 13 unique
 14 find that word
+15 count that word
