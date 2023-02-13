@@ -5,3 +5,4 @@
 4 last lines
 5 firstt lines
 6 third line
+7 file
