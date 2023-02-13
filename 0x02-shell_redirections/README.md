@@ -12,3 +12,4 @@
 11 directories
 10 newest files
 13 unique
+14 find that word
