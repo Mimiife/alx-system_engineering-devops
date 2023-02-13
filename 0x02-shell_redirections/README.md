@@ -7,3 +7,4 @@
 6 third line
 7 file
 8 cwd state
+9 duplicate last line
